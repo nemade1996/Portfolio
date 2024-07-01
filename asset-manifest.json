@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.724a011b.css",
+    "main.js": "/Portfolio/static/js/main.600dd62c.js",
+    "static/js/453.983fa680.chunk.js": "/Portfolio/static/js/453.983fa680.chunk.js",
+    "static/media/avatar.jpg": "/Portfolio/static/media/avatar.12259926ada563847488.jpg",
+    "static/media/about.jpg": "/Portfolio/static/media/about.7743fcc10bd4fb2d9ece.jpg",
+    "static/media/w3.jpeg": "/Portfolio/static/media/w3.c63cd4eb68b08ae30a6a.jpeg",
+    "static/media/w7.jpeg": "/Portfolio/static/media/w7.35b35e51074a772cb8b2.jpeg",
+    "static/media/w1.jpeg": "/Portfolio/static/media/w1.61a8eca8a8573537a5f4.jpeg",
+    "static/media/w4.jpeg": "/Portfolio/static/media/w4.23e6e254a8337a8df5a9.jpeg",
+    "static/media/quote.jpg": "/Portfolio/static/media/quote.b5ddf190b9583803e024.jpg",
+    "static/media/w8.jpeg": "/Portfolio/static/media/w8.5340c1ab86221c29024a.jpeg",
+    "static/media/bg-dark.jpg": "/Portfolio/static/media/bg-dark.005701fb7fdf69e4822a.jpg",
+    "static/media/w9.jpeg": "/Portfolio/static/media/w9.f1a3ccd6834f8b5929f6.jpeg",
+    "static/media/w2.jpeg": "/Portfolio/static/media/w2.10d3352b732794252cd8.jpeg",
+    "static/media/bg.jpg": "/Portfolio/static/media/bg.d5d541a728bd47929430.jpg",
+    "static/media/w6.jpeg": "/Portfolio/static/media/w6.c4e940b9af6ca3f949e0.jpeg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.0b4f26cb9d35e0ed0ece.png",
+    "static/media/w5.jpeg": "/Portfolio/static/media/w5.26587c6ce29ae5b65ecb.jpeg",
+    "static/media/birthday.svg": "/Portfolio/static/media/birthday.6d5ad0915e621e4f0281cbda5e02caf0.svg",
+    "static/media/email.svg": "/Portfolio/static/media/email.bc377b298464ecc6e5cafe77c1ba3b53.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/education.svg": "/Portfolio/static/media/education.4d3fc811ab6a98857e0f63f5ec32e74a.svg",
+    "static/media/phone.svg": "/Portfolio/static/media/phone.bd3603f1820c77109b91fc03db8dcee0.svg",
+    "static/media/location.svg": "/Portfolio/static/media/location.8a31c19618e350416ddf3d4817c5a37c.svg",
+    "static/media/experince.svg": "/Portfolio/static/media/experince.341b41eccf09b2cf437c026a487ce2e7.svg",
+    "main.724a011b.css.map": "/Portfolio/static/css/main.724a011b.css.map",
+    "main.600dd62c.js.map": "/Portfolio/static/js/main.600dd62c.js.map",
+    "453.983fa680.chunk.js.map": "/Portfolio/static/js/453.983fa680.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724a011b.css",
+    "static/js/main.600dd62c.js"
+  ]
+}
