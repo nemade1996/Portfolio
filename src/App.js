@@ -86,33 +86,33 @@ const App =()=>{
 
 const appRouter = createBrowserRouter([
   {
-    path: "/",
-    element:<App/>,
-    children:[
+    path: "/Portfolio",
+    element: <App />,
+    children: [
       {
-        path: "/",
-        element:<Intro/>
+        path: "/Portfolio",
+        element: <Intro />
       },
       {
-        path: "/about",
-        element:<About/>
+        path: "/Portfolio/about",
+        element: <About />
       },
       {
-        path: "/resume",
-        element:<Resume/>
+        path: "/Portfolio/resume",
+        element: <Resume />
       },
       {
-        path: "/works",
-        element:<Works/>
+        path: "/Portfolio/works",
+        element: <Works />
       },
       {
-        path: "/contact",
-        element:<Contact/>
+        path: "/Portfolio/contact",
+        element: <Contact />
       }
     ],
-    errorElement : <Error/>
-  },
-])
+    errorElement: <Error />
+  }
+]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 

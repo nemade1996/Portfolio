@@ -9,11 +9,11 @@ import quote from "../images/text.png"
 const Navbar = ({ handleThemeSwitch, themeText, themeIcon, openPopup ,setActiveMenu, activeMenu }) => {  
 
   const menuItems = [
-    { path: "/", label: "Home" },
-    { path: "/about", label: "About" },
-    { path: "/resume", label: "Resume" },
-    { path: "/works", label: "Works" },
-    { path: "/contact", label: "Contact" },
+    { path: "/Portfolio/", label: "Home" },
+    { path: "/Portfolio/about", label: "About" },
+    { path: "/Portfolio/resume", label: "Resume" },
+    { path: "/Portfolio/works", label: "Works" },
+    { path: "/Portfolio/contact", label: "Contact" },
   ];
 
   return (
@@ -22,7 +22,7 @@ const Navbar = ({ handleThemeSwitch, themeText, themeIcon, openPopup ,setActiveM
         <header className="flex justify-between items-center fixed top-0 left-0 w-full lg:static z-[1111111111] ">
           <div className=" flex justify-between w-full px-4 lg:px-0 bg-[#F3F6F6] lg:bg-transparent lg:dark:bg-transparent dark:bg-black ">
             <div className="flex justify-between w-full items-center space-x-4 lg:my-8 my-5 ">
-            <Link to="/"><img src={logo} className='w-20'/></Link>
+            <Link to="/Portfolio"><img src={logo} className='w-20'/></Link>
             </div>
           </div>
           <nav className="hidden lg:block">
